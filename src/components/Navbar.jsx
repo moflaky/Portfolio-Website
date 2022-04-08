@@ -121,7 +121,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               download
-              href="../assets/Resume.pdf"
+              href="https://github.com/moflaky/Portfolio-Website/blob/master/src/assets/Resume.pdf"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
