@@ -21,22 +21,32 @@ const Work = () => {
           {/* Grid */}
           <div
             style={{ backgroundImage: `url(${rlIMG})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div text-center"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 duration-75">
-              <span className="text-2xl font-bold text-white tracking-wider">
-                Rocket League Database
+            <div className="opacity-0 group-hover:opacity-100 duration-300">
+              <span className="text-2xl font-bold text-white tracking wider">
+                Rocket League
               </span>
               <div className="pt-8 text-center">
                 <a href="https://full-stack-website.salamackmatthew.repl.co/">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Demo
+                  <button className="text-center rounded-lg px-2 py-1 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Backend
                   </button>
                 </a>
                 <a href="https://replit.com/@salamackMatthew/Full-Stack-Website#index.js">
-                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                    Code
+                  <button className="text-center rounded-lg px-2 py-1 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Backend Code
+                  </button>
+                </a>
+                <a href="https://restful-client-for-csci-345-final-assignment.salamackmatthew.repl.co/">
+                  <button className="text-center rounded-lg px-2 py-1 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Client
+                  </button>
+                </a>
+                <a href="https://replit.com/@salamackMatthew/restful-client-for-CSCI-345-Final-Assignment#index.html">
+                  <button className="text-center rounded-lg px-2 py-1 m-2 bg-white text-gray-700 font-bold text-lg ">
+                    Client Code
                   </button>
                 </a>
               </div>
@@ -47,7 +57,7 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 duration-75">
+            <div className="opacity-0 group-hover:opacity-100 duration-300">
               <span className="text-2xl font-bold text-white tracking-wider">
                 JavaScript Snake Game
               </span>
@@ -70,7 +80,7 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 duration-75">
+            <div className="opacity-0 group-hover:opacity-100 duration-300">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Crypto Price Tracker
               </span>
@@ -93,7 +103,7 @@ const Work = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 duration-75">
+            <div className="opacity-0 group-hover:opacity-100 duration-300">
               <span className="text-2xl font-bold text-white tracking-wider">
                 React Weather App
               </span>
