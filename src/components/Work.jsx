@@ -26,7 +26,7 @@ const Work = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100 duration-300">
               <span className="text-2xl font-bold text-white tracking wider">
-                Rocket League
+                Rocket League Database
               </span>
               <div className="pt-8 text-center">
                 <a href="https://full-stack-website.salamackmatthew.repl.co/">
