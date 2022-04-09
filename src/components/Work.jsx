@@ -1,7 +1,8 @@
 import React from "react";
 import rlIMG from "../assets/RLIMG.png";
-import snakeGame from "../assets/snake.png";
-import crypto from "../assets/crpyto.jpg";
+import snakeGame from "../assets/snake.jpg";
+import crypto from "../assets/crypto.webp";
+import weather from "../assets/weather.png";
 
 const Work = () => {
   return (
@@ -80,6 +81,29 @@ const Work = () => {
                   </button>
                 </a>
                 <a href="https://github.com/moflaky/Crypto-Price-App-Project">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${weather})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100 duration-75">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                React Weather App
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://moflaky.github.io/react-weather-app/">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a href="https://github.com/moflaky/react-weather-app">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
