@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.4270846f.css",
-    "main.js": "/Portfolio-Website/static/js/main.39bb86ac.js",
-    "static/media/RLIMG.png": "/Portfolio-Website/static/media/RLIMG.70409784b09fd9acde99.png",
-    "static/media/snake.png": "/Portfolio-Website/static/media/snake.5b53fa947b7a15d9fb27.png",
+    "main.js": "/Portfolio-Website/static/js/main.a2180f4a.js",
+    "static/media/weather.png": "/Portfolio-Website/static/media/weather.ff8ce1d6cf2a65caee2f.png",
+    "static/media/RLIMG.png": "/Portfolio-Website/static/media/RLIMG.f267c32356eb5ead561a.png",
+    "static/media/crypto.webp": "/Portfolio-Website/static/media/crypto.5be76f5644dab4afedf7.webp",
+    "static/media/snake.jpg": "/Portfolio-Website/static/media/snake.0bc34bafe833e7494e29.jpg",
     "static/media/logo.png": "/Portfolio-Website/static/media/logo.81184b85305cc0b23731.png",
     "static/media/react.png": "/Portfolio-Website/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/Portfolio-Website/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/github.png": "/Portfolio-Website/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/crpyto.jpg": "/Portfolio-Website/static/media/crpyto.6c62c542dc60b7d39738.jpg",
     "static/media/html.png": "/Portfolio-Website/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "/Portfolio-Website/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-Website/index.html",
     "main.4270846f.css.map": "/Portfolio-Website/static/css/main.4270846f.css.map",
-    "main.39bb86ac.js.map": "/Portfolio-Website/static/js/main.39bb86ac.js.map"
+    "main.a2180f4a.js.map": "/Portfolio-Website/static/js/main.a2180f4a.js.map"
   },
   "entrypoints": [
     "static/css/main.4270846f.css",
-    "static/js/main.39bb86ac.js"
+    "static/js/main.a2180f4a.js"
   ]
 }
