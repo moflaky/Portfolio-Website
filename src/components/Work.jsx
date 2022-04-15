@@ -62,12 +62,12 @@ const Work = () => {
                 JavaScript Snake Game
               </span>
               <div className="pt-8 text-center">
-                <a href="https://snake-game-matthew-salamack-csci-345.salamackmatthew.repl.co/index.html?">
+                <a href="https://moflaky.github.io/Snake-Game/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
-                <a href="https://replit.com/@salamackMatthew/Snake-Game-Matthew-Salamack-CSCI-345#index.html">
+                <a href="https://github.com/moflaky/Snake-Game">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
