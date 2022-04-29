@@ -42,5 +42,5 @@
 }
 
 .content-div:hover::before {
-  opacity: 1;
+  opacity: 0.75;
 }
