@@ -18,10 +18,12 @@ const Work = () => {
         </div>
 
         {/* Container */}
-        <div className="grid sm:grid-cols-2 gap-4">
+        <div className="grid md:grid-cols-3 gap-3">
           {/* Grid */}
           <div
-            style={{ backgroundImage: `url(${rlIMG})` }}
+            style={{
+              backgroundImage: `url(${rlIMG})`,
+            }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div text-center"
           >
             {/* Hover Effects */}
