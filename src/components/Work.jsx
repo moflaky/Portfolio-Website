@@ -4,6 +4,7 @@ import snakeGame from "../assets/snake.jpg";
 import crypto from "../assets/crypto.webp";
 import weather from "../assets/weather.png";
 import spotifyImage from "../assets/spotify-player-image.png";
+import secondWind from "../assets/second-wind.png";
 
 const Work = () => {
   return (
@@ -18,7 +19,7 @@ const Work = () => {
         </div>
 
         {/* Container */}
-        <div className="grid md:grid-cols-3 gap-3">
+        <div className="grid md:grid-cols-3 gap-3 sm:grid-cols-2">
           {/* Grid */}
           <div
             style={{
@@ -140,6 +141,29 @@ const Work = () => {
                   </button>
                 </a>
                 <a href="https://github.com/moflaky/spotify-player-client">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${secondWind})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100 duration-300">
+              <span className="text-2xl font-bold text-white tracking-wider text-center">
+                Cafe Site Template
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://moflaky.github.io/second-wind/">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a href="https://github.com/moflaky/second-wind">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
