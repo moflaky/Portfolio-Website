@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.5524977a.css",
-    "main.js": "/static/js/main.970522d7.js",
+    "main.css": "/static/css/main.d4ce163c.css",
+    "main.js": "/static/js/main.f5681257.js",
     "static/media/second-wind.png": "/static/media/second-wind.d35df48839913303751c.png",
     "static/media/weather.png": "/static/media/weather.ff8ce1d6cf2a65caee2f.png",
     "static/media/RLIMG.png": "/static/media/RLIMG.f267c32356eb5ead561a.png",
     "static/media/crypto.webp": "/static/media/crypto.5be76f5644dab4afedf7.webp",
     "static/media/snake.jpg": "/static/media/snake.0bc34bafe833e7494e29.jpg",
+    "static/media/typing-game.png": "/static/media/typing-game.49b872d2ece4b7149431.png",
     "static/media/logo.png": "/static/media/logo.81184b85305cc0b23731.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/spotify-player-image.png": "/static/media/spotify-player-image.f3d2b4534856cc46e8e8.png",
@@ -16,11 +17,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.5524977a.css.map": "/static/css/main.5524977a.css.map",
-    "main.970522d7.js.map": "/static/js/main.970522d7.js.map"
+    "main.d4ce163c.css.map": "/static/css/main.d4ce163c.css.map",
+    "main.f5681257.js.map": "/static/js/main.f5681257.js.map"
   },
   "entrypoints": [
-    "static/css/main.5524977a.css",
-    "static/js/main.970522d7.js"
+    "static/css/main.d4ce163c.css",
+    "static/js/main.f5681257.js"
   ]
 }
