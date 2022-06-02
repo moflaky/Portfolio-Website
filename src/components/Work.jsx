@@ -5,12 +5,13 @@ import crypto from "../assets/crypto.webp";
 import weather from "../assets/weather.png";
 import spotifyImage from "../assets/spotify-player-image.png";
 import secondWind from "../assets/second-wind.png";
+import typingGame from "../assets/typing-game.png";
 
 const Work = () => {
   return (
     <div name="work" className="bg-[#0a192f] w-full md:h-screen text-gray-300">
       {/* Container */}
-      <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
+      <div className="max-w-[1200px] mx-auto p-4 flex flex-col justify-center w-full h-full">
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-[#5065a8]">
             Work
@@ -19,7 +20,7 @@ const Work = () => {
         </div>
 
         {/* Container */}
-        <div className="grid md:grid-cols-3 gap-3 sm:grid-cols-2">
+        <div className="grid md:grid-cols-4 gap-3 sm:grid-cols-2">
           {/* Grid */}
           <div
             style={{
@@ -83,7 +84,6 @@ const Work = () => {
             style={{ backgroundImage: `url(${crypto})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
-            {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100 duration-300">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Crypto Price Tracker
@@ -95,6 +95,29 @@ const Work = () => {
                   </button>
                 </a>
                 <a href="https://github.com/moflaky/Crypto-Price-App-Project">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${typingGame})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
+          >
+            {/* Hover Effects */}
+            <div className="opacity-0 group-hover:opacity-100 duration-300">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                JS Typing Game
+              </span>
+              <div className="pt-8 text-center">
+                <a href="https://moflaky.github.io/JS-WPM-Typing-Game/">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a href="https://github.com/moflaky/JS-WPM-Typing-Game">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
