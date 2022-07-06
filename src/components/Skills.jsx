@@ -5,6 +5,8 @@ import JavaScript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
 import Node from "../assets/node.png";
 import GitHub from "../assets/github.png";
+import Sql from "../assets/sql.png";
+import Asp from "../assets/asp.png";
 
 const Skills = () => {
   return (
@@ -45,6 +47,17 @@ const Skills = () => {
           <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Node} alt="Html-icon" />
             <p className="my-4">NODE JS</p>
+          </div>
+        </div>
+
+        <div className="w-full grid grid-cols-2 sm:grid-cols-2 gap-4 text-center">
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Sql} alt="Html-icon" />
+            <p className="my-4">SQL</p>
+          </div>
+          <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Asp} alt="Html-icon" />
+            <p className="my-4">ASP.Net</p>
           </div>
         </div>
       </div>

@@ -20,7 +20,10 @@ const Work = () => {
         </div>
 
         {/* Container */}
-        <div className="grid md:grid-cols-4 gap-3 sm:grid-cols-2">
+        <div
+          style={{ zIndex: 0 }}
+          className="grid md:grid-cols-4 gap-3 sm:grid-cols-2"
+        >
           {/* Grid */}
           <div
             style={{
