@@ -7,11 +7,11 @@ I am passionate about building excellent software that improves the lives of tho
 
 # Technical Skills
 
-* Programming Languages: HTML, CSS, JavaScript, Java, Python
+* Programming Languages: HTML, CSS, JavaScript, Java, Python, ASP.NET
 * Libraries & Frameworks: Node, Express, React, TailwindCSS, MaterialUI
 * Database: SQL, MongoDB
-* Tools & Platforms: Git, Heroku, AWS, Pandas
-* Design: Adobe Illustrator, Photoshop
+* Tools & Platforms: Git, Heroku, AWS, Pandas, WordPress
+* Design: Adobe Illustrator, Photoshop, Canva
 
 # Contact Information
 
